@@ -1,0 +1,19 @@
+# Sample / per-study data — too large to commit
+iba1_tmem_cd68/
+
+# Pipeline outputs (generated)
+stage1_out/
+stage2_out/
+mask_combined_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# R
+.Rhistory
+
+# Editor / tool state
+.claude/
+.ipynb_checkpoints/

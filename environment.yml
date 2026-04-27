@@ -1,0 +1,10 @@
+name: mgla-img-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - tifffile
+  - pillow
+  - scipy
